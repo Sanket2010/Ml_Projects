@@ -1,5 +1,3 @@
-Here's a formatted `README.md` file for the code:
-
 # Movie Recommendation System
 
 This code performs data processing, feature extraction, and similarity-based movie recommendation. Below is a breakdown of its key parts:
@@ -173,5 +171,3 @@ This code builds a movie recommendation system by:
 - Computing cosine similarity between movie vectors,
 - Recommending similar movies based on the cosine similarity.
 ```
-
-This `README.md` provides an overview of the key functions and code blocks in the movie recommendation system.
